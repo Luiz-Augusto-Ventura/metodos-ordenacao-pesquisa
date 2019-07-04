@@ -5,6 +5,8 @@
   
 ATENÇÃO: Para ordenar números contidos em um arquivo de texto, é importante separar cada número por um espaço em branco, caso contrário haverá erro! 
 
+*NÃO POSSUÍMOS QUAISQUER DIREITOS AUTORAIS SOBRE AS IMAGENS UTILIZADAS NESTE PROJETO. TODAS ELAS FORAM UTILIZADAS COM O ÚNICO PROPÓSITO DE ESTUDO!
+
 Capturas de tela:
 
 ![Captura ordenação em arquivo](screenshots/captura_arquivo.png)
