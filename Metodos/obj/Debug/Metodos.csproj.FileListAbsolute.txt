@@ -1,0 +1,33 @@
+c:\users\willian\documents\visual studio 2013\Projects\MetodosOP-Trabalho\Metodos\bin\Debug\Metodos.exe.config
+c:\users\willian\documents\visual studio 2013\Projects\MetodosOP-Trabalho\Metodos\bin\Debug\Metodos.exe
+c:\users\willian\documents\visual studio 2013\Projects\MetodosOP-Trabalho\Metodos\bin\Debug\Metodos.pdb
+c:\users\willian\documents\visual studio 2013\Projects\MetodosOP-Trabalho\Metodos\obj\Debug\Metodos.csprojResolveAssemblyReference.cache
+c:\users\willian\documents\visual studio 2013\Projects\MetodosOP-Trabalho\Metodos\obj\Debug\Metodos.frmPrincipal.resources
+c:\users\willian\documents\visual studio 2013\Projects\MetodosOP-Trabalho\Metodos\obj\Debug\Metodos.OrdenacaoAleatorio.resources
+c:\users\willian\documents\visual studio 2013\Projects\MetodosOP-Trabalho\Metodos\obj\Debug\Metodos.Properties.Resources.resources
+c:\users\willian\documents\visual studio 2013\Projects\MetodosOP-Trabalho\Metodos\obj\Debug\Metodos.csproj.GenerateResource.Cache
+c:\users\willian\documents\visual studio 2013\Projects\MetodosOP-Trabalho\Metodos\obj\Debug\Metodos.exe
+c:\users\willian\documents\visual studio 2013\Projects\MetodosOP-Trabalho\Metodos\obj\Debug\Metodos.pdb
+c:\users\willian\documents\visual studio 2013\Projects\MetodosOP-Trabalho\Metodos\obj\Debug\Metodos.OrdenacaoTexto.resources
+C:\Users\luiza\Desktop\MetodosOP-Trabalho\Metodos\bin\Debug\Metodos.exe.config
+C:\Users\luiza\Desktop\MetodosOP-Trabalho\Metodos\obj\Debug\Metodos.exe
+C:\Users\luiza\Desktop\MetodosOP-Trabalho\Metodos\obj\Debug\Metodos.pdb
+C:\Users\luiza\Desktop\MetodosOP-Trabalho\Metodos\bin\Debug\Metodos.exe
+C:\Users\luiza\Desktop\MetodosOP-Trabalho\Metodos\bin\Debug\Metodos.pdb
+C:\Users\luiza\Desktop\MetodosOP-Trabalho\Metodos\obj\Debug\Metodos.csprojResolveAssemblyReference.cache
+C:\Users\luiza\Desktop\MetodosOP-Trabalho\Metodos\obj\Debug\Metodos.frmPrincipal.resources
+C:\Users\luiza\Desktop\MetodosOP-Trabalho\Metodos\obj\Debug\Metodos.OrdenacaoAleatorio.resources
+C:\Users\luiza\Desktop\MetodosOP-Trabalho\Metodos\obj\Debug\Metodos.OrdenacaoTexto.resources
+C:\Users\luiza\Desktop\MetodosOP-Trabalho\Metodos\obj\Debug\Metodos.Properties.Resources.resources
+C:\Users\luiza\Desktop\MetodosOP-Trabalho\Metodos\obj\Debug\Metodos.csproj.GenerateResource.Cache
+C:\Users\luiza\Desktop\Computação\Quarto Período\Métodos de Ordenação e Pesquisa\MetodosOP-Trabalho\Metodos\bin\Debug\Metodos.exe.config
+C:\Users\luiza\Desktop\Computação\Quarto Período\Métodos de Ordenação e Pesquisa\MetodosOP-Trabalho\Metodos\obj\Debug\Metodos.exe
+C:\Users\luiza\Desktop\Computação\Quarto Período\Métodos de Ordenação e Pesquisa\MetodosOP-Trabalho\Metodos\obj\Debug\Metodos.pdb
+C:\Users\luiza\Desktop\Computação\Quarto Período\Métodos de Ordenação e Pesquisa\MetodosOP-Trabalho\Metodos\bin\Debug\Metodos.exe
+C:\Users\luiza\Desktop\Computação\Quarto Período\Métodos de Ordenação e Pesquisa\MetodosOP-Trabalho\Metodos\bin\Debug\Metodos.pdb
+C:\Users\luiza\Desktop\Computação\Quarto Período\Métodos de Ordenação e Pesquisa\MetodosOP-Trabalho\Metodos\obj\Debug\Metodos.csprojResolveAssemblyReference.cache
+C:\Users\luiza\Desktop\Computação\Quarto Período\Métodos de Ordenação e Pesquisa\MetodosOP-Trabalho\Metodos\obj\Debug\Metodos.frmPrincipal.resources
+C:\Users\luiza\Desktop\Computação\Quarto Período\Métodos de Ordenação e Pesquisa\MetodosOP-Trabalho\Metodos\obj\Debug\Metodos.OrdenacaoAleatorio.resources
+C:\Users\luiza\Desktop\Computação\Quarto Período\Métodos de Ordenação e Pesquisa\MetodosOP-Trabalho\Metodos\obj\Debug\Metodos.OrdenacaoTexto.resources
+C:\Users\luiza\Desktop\Computação\Quarto Período\Métodos de Ordenação e Pesquisa\MetodosOP-Trabalho\Metodos\obj\Debug\Metodos.Properties.Resources.resources
+C:\Users\luiza\Desktop\Computação\Quarto Período\Métodos de Ordenação e Pesquisa\MetodosOP-Trabalho\Metodos\obj\Debug\Metodos.csproj.GenerateResource.Cache
